@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Products.Cqrs.Api/Products.Cqrs.Api.csproj" Id="bee5bc41-7c5f-44df-8b24-af9f04f85445" />
+    <Project Path="src/Products.Cqrs.Application/Products.Cqrs.Application.csproj" Id="a3915736-a545-4073-aba8-e37afe8f6639" />
+    <Project Path="src/Products.Cqrs.Domain/Products.Cqrs.Domain.csproj" Id="59f7ac2e-5e76-4584-8ac5-eacc3e8c7572" />
+    <Project Path="src/Products.Cqrs.Infraestructure/Products.Cqrs.Infraestructure.csproj" Id="4cdb3c22-0e32-4ba6-b467-d11ab94a31d2" />
+  </Folder>
+</Solution>
