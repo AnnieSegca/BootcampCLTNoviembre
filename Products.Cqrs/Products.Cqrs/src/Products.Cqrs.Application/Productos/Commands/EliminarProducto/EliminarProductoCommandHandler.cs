@@ -1,7 +1,7 @@
 ﻿using Products.Cqrs.Application.Abstractions;
 using Products.Cqrs.Application.Abstractions.Messaging;
 using Products.Cqrs.Application.Common;
-using Products.Cqrs.Application.Productos.Commands.Eliminar_Producto;
+using Products.Cqrs.Application.Productos.Commands.EliminarProducto;
 using Products.Cqrs.Domain.Productos;
 
 namespace Products.Cqrs.Application.Productos.Commands.EliminarProducto;
